@@ -23,6 +23,7 @@ A tirar a lincenciatura em Ciências da Computação pela Universidade do Minho,
 | [Base-de-Dados](https://github.com/TiagoFernandes404/Base-de-Dados) | Sistema de base de dados relacional para gestão de eventos desportivos | MySQL, SQL |
 | [Computacao-Grafica](https://github.com/TiagoFernandes404/Computacao-Grafica) | Motor 3D com sistema solar animado, texturas e iluminação | C++, OpenGL, GLUT |
 | [Processamento-de-Linguagens-e-Compiladores](https://github.com/TiagoFernandes404/Processamento-de-Linguagens-e-Compiladores) | Compilador de um subconjunto de Pascal com análise léxica, sintática e semântica, gerando código para uma máquina virtual stack-based | Python, PLY, Compiladores |
+| [Programacao-Orientada-aos-Objetos](https://github.com/TiagoFernandes404/Programacao-Orientada-aos-Objetos) | Sistema de automação doméstica com controlo de dispositivos, sensores, automações e escalonamentos temporais | Java, MVC, Programação Orientada aos Objetos |
 
 ---
 
