@@ -21,6 +21,7 @@ A tirar a lincenciatura em Ciências da Computação pela Universidade do Minho,
 |---------|-----------|-------------|
 | [Programacao-Concorrente](https://github.com/TiagoFernandes404/Programacao-Concorrente) | Mini-jogo 2D multijogador em tempo real com servidor concorrente | Erlang, Java, Processing |
 | [Bases-Dados](https://github.com/TiagoFernandes404/Bases-Dados) | Sistema de base de dados relacional para gestão de eventos desportivos | MySQL, SQL |
+| [Computacao-Grafica](https://github.com/TiagoFernandes404/Computacao-Grafica) | Motor 3D com sistema solar animado, texturas e iluminação | C++, OpenGL, GLUT |
 
 ---
 
