@@ -1,6 +1,6 @@
 # Olá, sou o Tiago Fernandes 👋
 
-Licenciado em Ciências da Computação pela Universidade do Minho, apaixonado por programação — de sistemas concorrentes a bases de dados, gosto de perceber como as coisas funcionam por dentro.
+A tirar a lincenciatura em Ciências da Computação pela Universidade do Minho, apaixonado por programação — de sistemas concorrentes a bases de dados, gosto de perceber como as coisas funcionam por dentro.
 
 ---
 
