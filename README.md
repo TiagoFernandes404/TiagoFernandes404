@@ -59,14 +59,6 @@ I enjoy tackling projects that push me to go deeper, whether that means building
 
 ---
 
-## 📊 GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFernandes404&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoFernandes404&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=TiagoFernandes404&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-fernandes-566732349/)
